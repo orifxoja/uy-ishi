@@ -1,0 +1,39 @@
+.flex-container {
+  display: flex;
+  justify-content: space-evenly;
+}
+h2 {
+  text-align: center;
+  margin-top: 100px;
+}
+.flex-container2 {
+  display: flex;
+  margin: 1px;
+}
+.flex-item2 {
+  background-color: red;
+  margin: 1px 10px;
+  width: 300px;
+  height: 200px;
+  display: flex;
+  margin-left: 310px;
+}
+.flex-item3 {
+  background-color: red;
+  margin: 1px 10px;
+  width: 300px;
+  height: 200px;
+  display: flex;
+  margin: 1px 1px 1px 100px;
+}
+
+p {
+  text-align: center;
+  margin: 80px auto;
+  color: white;
+  font-size: 30px;
+}
+.flex-container3 {
+  display: flex;
+  justify-content: space-evenly;
+}
